@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "217981453512",
+    "firebase_url": "https://testproject-92320.firebaseio.com",
+    "project_id": "testproject-92320",
+    "storage_bucket": "testproject-92320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217981453512:web:ab717a381b2ce4263951fd",
+        "android_client_info": {
+          "package_name": "YOUR_PACKAGE_NAME"
+        },
+        "web_client_info": {
+          "package_name": "HRI Project - Empathetic Message Generator"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvjHHzRDm9VuDj5vQKvAiJhKccs_s1Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217981453512-xxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
